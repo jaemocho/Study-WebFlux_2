@@ -1,4 +1,8 @@
 # Study-WebFlux_2
+(Study)WebFlux
+
+메타코딩 Springboot-WebFlux
+
 Reactive Stream test
 
 1. Publisher에 본인이 소유할 Subscription을 구현하고 publishing할 data를 만듭니다.  
